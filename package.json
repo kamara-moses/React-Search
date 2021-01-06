@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/kamara-moses/React-Search#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.11.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
